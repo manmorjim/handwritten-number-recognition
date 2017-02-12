@@ -1,0 +1,24 @@
+{
+  "name": "handwritten-number-recognition",
+  "version": "1.0.0",
+  "description": "A Neuroph project to recognize handwritten numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manmorjim/handwritten-number-recognition.git"
+  },
+  "keywords": [
+    "MachineLearning",
+    "AI",
+    "Neuroph"
+  ],
+  "author": "manmorjim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manmorjim/handwritten-number-recognition/issues"
+  },
+  "homepage": "https://github.com/manmorjim/handwritten-number-recognition#readme"
+}
